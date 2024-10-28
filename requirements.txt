@@ -1,0 +1,9 @@
+asgiref==3.8.1
+blessed==1.20.0
+Django==5.1.2
+gpustat==1.1.1
+nvidia-ml-py==12.560.30
+psutil==6.1.0
+six==1.16.0
+sqlparse==0.5.1
+wcwidth==0.2.13
